@@ -160,12 +160,12 @@ h2{
 </section>
 
 <section>
-   <h3>Sipgate Model</h2>
+   <h3>Sipgate Formula</h2>
    <img src="images\sipgate_graphTotal.png" alt="Sipgate Model">
 </section>
 <section>
    <h3>Sipgate Salary Band</h2>
-   <img src="images\sipgate_SalaryBands.jpg" alt="Sipgate Model">
+   <img src="images\sipgate_salaryBands.jpg" alt="Sipgate Salary Band">
 </section>
 
 ---
@@ -214,7 +214,7 @@ h2{
 
 ### When you want to know more
 
-![image](images\qr-code.png)
+![image](images/qr-code.png)
 
 ---
 
