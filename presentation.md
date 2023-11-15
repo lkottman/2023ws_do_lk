@@ -153,7 +153,7 @@ h2{
     <td>Stock Disclosure</td>
   </tr>
   <tr>
-    <td>More Complexe Formula</td>
+    <td>More Complex Formula</td>
     <td>Transparent Formula</td>
   </tr>
 </table>
@@ -190,10 +190,10 @@ h2{
       make organizations more attractive to potential employees
       </li>
       <li>
-      empowering the knowledge for students and future professionals
+      empower the knowledge for students and future professionals
       </li>
       <li>
-      enables advocacy for fairness and informed career choices
+      enable advocacy for fairness and informed career choices
       </li>
 </ul>
 </section>
