@@ -1,13 +1,16 @@
-# Salary Systems
-This will be an interesting blog of _Modern Salary Systems_
+# Transparent Salary Systems
+This will be an interesting blog of _Modern Salary Systems_<br>
+The [TL;DR](tldr.md) summarizes key points, but may omit detailed aspects found in the full article.
 
 In today's world, where information flows freely and transparency is highly valued, the concept of transparent salary systems has gained significant attention. This presentation aims to shed light on what transparent salary systems are, why they are essential, and how organizations can implement them. Whether you're a student seeking to understand the world of work or an HR professional looking for ways to improve your organization's practices, this presentation will provide valuable insights. This blog will also highlight how innovative companies like Buffer and Sipgate are leading the way with their transparent salary practices.
 
-## What
 
-Transparent salary systems are compensation structures where employees have a clear understanding of how their pay is determined. It involves making salary-related information, such as pay scales, criteria for raises, and bonus structures, accessible to employees. Companies like Buffer use a public salary formula considering role, experience, and location, while Sipgate practices internal transparency within the company.
+# What
 
-## Why
+Transparent salary systems are compensation structures where employees have a clear understanding of how their pay is determined. It involves making salary-related information, such as pay scales, criteria for raises, and bonus structures, [accessible to employees](https://www.forbes.com/sites/sallypercy/2022/12/02/whats-so-great-about-pay-transparency/). Companies like Buffer use a public salary formula considering role, experience, and location, while Sipgate practices internal transparency within the company.
+
+
+# Why
 Here I will discuss why companies are creating Transparent Salary Systems. What are the purposes. The advantages and disadvantages.
 
 1. **Pay Inequity:** Without transparency, employees may feel that they are unfairly compensated compared to their colleagues. Transparent systems help identify and rectify disparities, promoting fairness.
@@ -30,7 +33,7 @@ Here I will discuss why companies are creating Transparent Salary Systems. What 
 
 ---
 
-## How
+# How
 
 ### Standardization
 Companies should establish clear principles and guidelines. Salary formulae and tables can then be used to systematically determine pay. This ensures that the calculation is based on objective criteria and not subjective opinions.
@@ -47,7 +50,7 @@ It is crucial for companies to periodically review and assess the effectiveness 
 # Real-life Examples 
 In the spirit of openness and equity, some innovative companies are making salary details public. This section shines a spotlight on firms like Buffer and Sipgate, whose transparent salary policies are charting a new course in workplace culture.
 
-## Buffer
+# Buffer
 
 ![buffer_logo](images/buffer_logo.png)
 
@@ -73,7 +76,9 @@ Based in San Francisco, Buffer is a social media management platform celebrated 
 
 ![](images/buffer_dashboard.png)
 
-## Sipgate
+---
+
+# Sipgate
 
 ![sipgate_logo](images/sipgate_logo.png)
 
@@ -81,7 +86,9 @@ Based in San Francisco, Buffer is a social media management platform celebrated 
 
 Based in Düsseldorf, Germany, Sipgate, a telecommunications company, is recognized for its innovative VoIP solutions and commitment to egalitarian principles. By embracing salary transparency and openly discussing compensation, they've fostered an environment of trust and fairness, ensuring that employees feel valued while providing modern telecommunication services to individuals and businesses.
 
-![](images/sipgate_graphTotal.png)
+The salary graphs from sipgate, illustrate two different salary structures. The left graph shows the growth in salary for an employee who joined without professional experience, emphasizing increments for loyalty and gained experience. The right graph displays a higher starting salary for an individual with prior experience, acknowledging the value of their pre-existing expertise. Both diagrams highlight an "UNKNOWN FUTURE" segment, indicating the potential for future salary increases. Sipgate's transparent approach to compensation rewards personal development and loyalty, accommodating both novices and experienced professionals.
+
+![sipgate_calc](images/sipgate_graphTotal.png)
 
 **Internal Salary Transparency:** Sipgate practices internal transparency with their salary system, allowing all employees to know what their colleagues are making.
 
@@ -89,9 +96,9 @@ Based in Düsseldorf, Germany, Sipgate, a telecommunications company, is recogni
 
 **Regular Salary Reviews:** Sipgate regularly reviews salaries to ensure fairness and competitiveness, and these reviews are open for employees to contribute to.
 
-**Pay Bands:** Sipgate utilizes clear pay bands for different roles, which are known internally to ensure everyone is aware of their potential growth.
+**Salary Bands:** Sipgate utilizes clear pay bands for different roles, which are known internally to ensure everyone is aware of their potential growth.
 
-![](images/sipgate_salaryBands.jpg)
+![sipgate_salaryBands](images/sipgate_salaryBands.jpg)
 
 **Equal Pay for Equal Work:** They are committed to the principle of equal pay for equal work, actively working to eliminate any gender or background pay gaps.
 
@@ -99,10 +106,12 @@ Based in Düsseldorf, Germany, Sipgate, a telecommunications company, is recogni
 
 ---
 
-## Conclusion
+# Conclusion
 Transparent salary systems are more than just a trend; they represent a shift towards greater equity, trust, and clarity in the workplace. Companies like Buffer and Sipgate are leading examples of how transparency can positively transform organizational culture and employee relations.
 
-## Key Takeaways
+---
+
+# Key Takeaways
 Key Takeaways
 
 1. **Transparency is Key:** Transparent salary systems are crucial for addressing pay inequity, building trust, and attracting and retaining talent.
@@ -113,29 +122,24 @@ Key Takeaways
 
 3. **No Blueprint:** Each company must define for itself what is most important to it.
 
-## Sources
-
-[^1^]: [Forbes - The Rise of Salary Transparency](https://www.forbes.com/)
-[^2^]: [Harvard Business Review - Transparency in Compensation: Trends and Best Practices](https://www.hbr.org/)
-[^3^]: [PayScale - The Gender Pay Gap: Exploring the Evidence](https://www.payscale.com/)
-[^4^]: [Business Insider - The Downsides of Transparent Salaries](https://www.businessinsider.com/)
-[^5^]: [Society for Human Resource Management - Salary Transparency](https://www.shrm.org/)
 
 
-Percy, S. (2022, December 2). What's so great about pay transparency? Forbes. Retrieved from https://www.forbes.com/sites/sallypercy/2022/12/02/whats-so-great-about-pay-transparency/
+# Sources
 
-Jachimowicz, J. M., & Wihler, A. (2023). Research: The Unintended Consequences of Pay Transparency. Harvard Business School Working Paper, (23-039). Retrieved from https://www.hbs.edu/ris/Publication%20Files/23-039_f20d86a0-a1cf-4bd6-8066-74ccc6f2c3cf.pdf
+* Percy, S. (2022, December 2). What's so great about pay transparency? Forbes. Retrieved from https://www.forbes.com/sites/sallypercy/2022/12/02/whats-so-great-about-pay-transparency/
 
-Zillman, C. (2018, August 15). How Salary Transparency Empowers Employees — and When Not to Use It. Time. Retrieved from https://time.com/5353848/salary-pay-transparency-work/
+* Jachimowicz, J. M., & Wihler, A. (2023). Research: The Unintended Consequences of Pay Transparency. Harvard Business School Working Paper, (23-039). Retrieved from https://www.hbs.edu/ris/Publication%20Files/23-039_f20d86a0-a1cf-4bd6-8066-74ccc6f2c3cf.pdf
 
-Garden, C., & O’Toole, B. (2022, August). Research: The Unintended Consequences of Pay Transparency. Harvard Business Review. Retrieved from https://hbr.org/2022/08/research-the-unintended-consequences-of-pay-transparency
+* Zillman, C. (2018, August 15). How Salary Transparency Empowers Employees — and When Not to Use It. Time. Retrieved from https://time.com/5353848/salary-pay-transparency-work/
 
-Buffer. (n.d.). Open. Retrieved from https://buffer.com/open
+* Garden, C., & O’Toole, B. (2022, August). Research: The Unintended Consequences of Pay Transparency. Harvard Business Review. Retrieved from https://hbr.org/2022/08/research-the-unintended-consequences-of-pay-transparency
 
-Buffer. (n.d.). Salary Calculator. Retrieved from https://buffer.com/salary-calculator
+* Buffer. (n.d.). Open. Retrieved from https://buffer.com/open
 
-Buffer. (n.d.). Salaries. Retrieved from https://buffer.com/salaries
+* Buffer. (n.d.). Salary Calculator. Retrieved from https://buffer.com/salary-calculator
 
-Sipgate. (n.d.). So zahlen wir. Medium. Retrieved from https://sipgate.medium.com/so-zahlen-wir-6251ec42205a
+* Buffer. (n.d.). Salaries. Retrieved from https://buffer.com/salaries
 
-Sipgate. (n.d.). Blog. Retrieved from https://www.sipgate.de/blog
+* Sipgate. (n.d.). So zahlen wir. Medium. Retrieved from https://sipgate.medium.com/so-zahlen-wir-6251ec42205a
+
+* Sipgate. (n.d.). Blog. Retrieved from https://www.sipgate.de/blog
