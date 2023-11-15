@@ -34,10 +34,7 @@ Here I will discuss why companies are creating Transparent Salary Systems. What 
 ### Government regulations
 Effective September 2023, [New York State](https://dol.ny.gov/pay-transparency-law-fare-grant#:~:text=Effective%209%2F17%2F2023%2C,the%20state%20of%20New%20York.) employers with 4 or more employees must include a salary or salary range in their job postings for all jobs to be performed, at least in part, in the state of New York.
 
-<iframe width="1280" height="523" src="https://www.youtube.com/embed/9eoe9DUwKNc?si=MdT8WggYuYXioe53" title="CBS News New York State" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[CBS_New_York](https://imgur.com/a/0QLmmWi)](https://www.youtube.com/watch?v=9eoe9DUwKNc&t=1s&ab_channel=CBSNewYork)
-
+[![CBS News New York](https://i.imgur.com/njh5jmQ.jpeg)](https://www.youtube.com/watch?v=9eoe9DUwKNc&t=1s&ab_channel=CBSNewYork)
 ---
 
 # How
