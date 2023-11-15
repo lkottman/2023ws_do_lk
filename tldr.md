@@ -59,6 +59,7 @@ Based in Düsseldorf, Germany, Sipgate, a telecommunications company, is recogni
 3. **No Blueprint:** Each company must define for itself what is most important to it.
 
 
+## Sources and for more information:
 
 [Forbes - The Rise of Salary Transparency](https://www.forbes.com/)
 
