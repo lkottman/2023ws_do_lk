@@ -37,7 +37,7 @@ Digital Organisation, Autmation & Technology: Coursework
 
 Based in San Francisco, Buffer is a social media management platform celebrated for its user-friendly interface and comprehensive services. They've earned acclaim for their radical transparency in tech, notably for publicly sharing salary information, which positions them as a leader in fair pay practices and attracts talent aligned with their values of openness and equality.
 
-![](images/buffer_salaries3.png)
+![buffer_salaries](images/buffer_salaries4.png)
 
 
 ### Sipgate
