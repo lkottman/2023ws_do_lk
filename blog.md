@@ -37,7 +37,7 @@ Effective September 2023, [New York State](https://dol.ny.gov/pay-transparency-l
 <iframe width="1280" height="523" src="https://www.youtube.com/embed/9eoe9DUwKNc?si=MdT8WggYuYXioe53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-[CBS_New_York](https://imgur.com/a/0QLmmWi)](https://www.youtube.com/watch?v=9eoe9DUwKNc&t=1s&ab_channel=CBSNewYork)
+[![IMAGE ALT TEXT](https://i.imgur.com/njh5jmQ.jpeg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 ---
 
 # How
